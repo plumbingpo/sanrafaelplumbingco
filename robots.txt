@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanrafaelplumbingco.com/sitemap.xml
